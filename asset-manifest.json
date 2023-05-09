@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/motqn/static/css/main.e7fb2772.css",
-    "main.js": "/motqn/static/js/main.0c5dc5b4.js",
+    "main.css": "/motqn/static/css/main.01cf031b.css",
+    "main.js": "/motqn/static/js/main.bbfd8794.js",
     "static/js/787.4acf272c.chunk.js": "/motqn/static/js/787.4acf272c.chunk.js",
     "static/media/whatsapp.svg": "/motqn/static/media/whatsapp.4323d4bba20775dffeea76cd7627a881.svg",
+    "index.html": "/motqn/index.html",
     "static/media/logo.svg": "/motqn/static/media/logo.ffd265babdec70afde6a335664ccbbe3.svg",
     "static/media/instagram.svg": "/motqn/static/media/instagram.0f9b1a0e08f0650c69f0fc0634ff8925.svg",
-    "index.html": "/motqn/index.html",
     "static/media/facebook.svg": "/motqn/static/media/facebook.de02e10f1cd9dfd863c433927b0d5b3a.svg",
-    "main.e7fb2772.css.map": "/motqn/static/css/main.e7fb2772.css.map",
-    "main.0c5dc5b4.js.map": "/motqn/static/js/main.0c5dc5b4.js.map",
+    "main.01cf031b.css.map": "/motqn/static/css/main.01cf031b.css.map",
+    "main.bbfd8794.js.map": "/motqn/static/js/main.bbfd8794.js.map",
     "787.4acf272c.chunk.js.map": "/motqn/static/js/787.4acf272c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7fb2772.css",
-    "static/js/main.0c5dc5b4.js"
+    "static/css/main.01cf031b.css",
+    "static/js/main.bbfd8794.js"
   ]
 }
