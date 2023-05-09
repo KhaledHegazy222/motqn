@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/motqn/static/css/main.0f5a9324.css",
+    "main.css": "/motqn/static/css/main.91a3c91a.css",
     "main.js": "/motqn/static/js/main.bbfd8794.js",
     "static/js/787.4acf272c.chunk.js": "/motqn/static/js/787.4acf272c.chunk.js",
     "static/media/whatsapp.svg": "/motqn/static/media/whatsapp.4323d4bba20775dffeea76cd7627a881.svg",
@@ -8,12 +8,12 @@
     "static/media/logo.svg": "/motqn/static/media/logo.ffd265babdec70afde6a335664ccbbe3.svg",
     "static/media/instagram.svg": "/motqn/static/media/instagram.0f9b1a0e08f0650c69f0fc0634ff8925.svg",
     "static/media/facebook.svg": "/motqn/static/media/facebook.de02e10f1cd9dfd863c433927b0d5b3a.svg",
-    "main.0f5a9324.css.map": "/motqn/static/css/main.0f5a9324.css.map",
+    "main.91a3c91a.css.map": "/motqn/static/css/main.91a3c91a.css.map",
     "main.bbfd8794.js.map": "/motqn/static/js/main.bbfd8794.js.map",
     "787.4acf272c.chunk.js.map": "/motqn/static/js/787.4acf272c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f5a9324.css",
+    "static/css/main.91a3c91a.css",
     "static/js/main.bbfd8794.js"
   ]
 }
